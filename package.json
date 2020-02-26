@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Norman Calhoun",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "boss": "./index.js"
+  }
 }
-"bin": {
-  "your-command-here": "./index.js"
-},
